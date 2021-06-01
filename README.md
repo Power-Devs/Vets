@@ -25,10 +25,6 @@ clínica em si.
 
 A aplicação deverá funcionar tanto em web quanto em smartphones que possuem acesso à internet.
 
-
-![endereço](UML/VetUseCase.png)
-
-
 ### Progresso e controle das etapas implementadas: 
 
 
