@@ -113,7 +113,7 @@ clínica em si.
 
 <a href="https://firebase.google.com/?hl=pt" target="_blank"><img src="https://i.ibb.co/CP3ZB33/firebase-1-logo.png" alt="Firebase" width="40" height="40"/> </a>  Firebase </p>
 
-<a href="https://spring.io/" target="_blank"><img src="https://i.ibb.co/PMzzhTc/spring-logo-9-A2-BC78-AAF-seeklogo-com.png" alt="Spring" width="40" height="40"/> </a>  Spring </p>
+<a href="https://spring.io/" target="_blank"><img src="https://i.ibb.co/PMzzhTc/spring-logo-9-A2-BC78-AAF-seeklogo-com.png" alt="Spring" width="40" height="40"/> </a> &nbsp; Spring </p>
 
 ### 6 - COMO ACESSAR O APP?
 Entre em: https://nearbyexample-307722.web.app/
