@@ -111,7 +111,7 @@ clínica em si.
 
 <a href="https://developers.google.com/maps?hl=pt-br" target="_blank"><img src="https://user-images.githubusercontent.com/61831823/120246577-ffcc2400-c246-11eb-98a7-71dd2df42416.png" alt="ApiMaps" width="40" height="40"/> </a>  Api GoogleMaps </p>
 
-<a href="https://developers.google.com/maps?hl=pt-br" target="_blank"><img src="https://i.ibb.co/C6bYJ2W/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2-210399531528.jpg" alt="Firebase" width="60" height="40"/> </a>  Firebase </p>
+<a href="https://developers.google.com/maps?hl=pt-br" target="_blank"><img src="https://i.ibb.co/CP3ZB33/firebase-1-logo.png" alt="Firebase" width="60" height="40"/> </a>  Firebase </p>
 
 ### 6 - COMO ACESSAR O APP?
 Entre em: https://nearbyexample-307722.web.app/
