@@ -91,7 +91,7 @@ clínica em si.
 <img src="https://i.ibb.co/sjTPHsG/Capture.png" width="400"> 
 
 > ### Mapa das clínicas próximas
-<img src="https://i.ibb.co/B4gMBw5/maapa.png" width="400"> 
+<img src="https://i.ibb.co/Nj1VhBY/Capturar.png" width="400"> 
 
 > ### Clínica
 <img src="https://i.ibb.co/jz1ddDT/dd.png" width="400"> 
