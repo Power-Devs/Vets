@@ -51,17 +51,17 @@ A Vets irá conectar as clínicas veterinárias e usuários donos de pets em ger
 
 > ### 3.2 Requisitos Funcionais
 
-- [X] Cadastro de Usuários: 
+- [] Cadastro de Usuários: 
 
 Deverá haver a possibilidade de usuários efetuarem cadastros,
 informando Nome, e-mail, senha.
 
-- [X] Login de Usuário: 
+- [] Login de Usuário: 
 
 Deve haver a entrada de login de usuário informando email e senha, para ter
 acesso a mais recursos da plataforma.
 
-- [X] Recuperação de Senha: 
+- [] Recuperação de Senha: 
 
 Deve haver a possibilidade do usuário recuperar a senha em caso de
 esquecimento.
